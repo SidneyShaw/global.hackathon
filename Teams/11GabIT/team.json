@@ -1,0 +1,13 @@
+{
+  "teamName" : "11GabIT",
+  "members"  : 
+  [
+	    {
+	      "name"	 : "Gabit Kemelov",
+	      "twitter"	 : "",
+	      "koding"	 : "gkemelov",
+	      "location" : "almaty, Kazakhstan",
+	      "lead"	 : true
+	    }
+	]
+}
